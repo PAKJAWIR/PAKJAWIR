@@ -2,7 +2,7 @@
 Just random dude who love to explore everything...
 
 
-- You know what **i think i am funny enough.**
+not good enough at Javascript
 
 
 <h3 align="left">Languages and Tools:</h3>
