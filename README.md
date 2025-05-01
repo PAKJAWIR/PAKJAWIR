@@ -1,13 +1,13 @@
 ![NurAdli](img/github-header-image.png)
 
-## 💫 About Me
+## About Me
 I'm a Front-End Web Developer and Graphic Designer who enjoys building clean, responsive, and interactive websites.  
 I focus on creating smooth transitions, animated interfaces, and custom user experiences.  
 Always learning and exploring, I turn ideas into engaging, functional products.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 4px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -33,7 +33,7 @@ Always learning and exploring, I turn ideas into engaging, functional products.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-nur-adli-al-ghifari-97106230a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PAKJAWIR)
@@ -41,7 +41,7 @@ Always learning and exploring, I turn ideas into engaging, functional products.
 
 ---
 
-## 📈 Stats
+## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAKJAWIR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
