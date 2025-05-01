@@ -1,21 +1,38 @@
 ![NurAdli](img/github-header-image.png)
 
+---
+
+
 ## About Me
+
+<p align="justify">
 I'm a Front-End Web Developer and Graphic Designer passionate about crafting clean, responsive, and engaging websites. I specialize in building fluid interfaces with smooth transitions, animations, and custom user experiences that feel both intuitive and inspiring. I enjoy bringing life to pixels, making ideas not just visible—but tangible.
 
 But my journey isn't just about code.
-
+<p align="justify">
 I'm also a lifelong learner, constantly exploring not only new technologies, but also timeless philosophies. I'm currently diving deep into the principles of Stoicism—seeking clarity, discipline, and inner peace through simplicity and self-awareness. To me, every project is more than a task—it's a part of a greater journey to grow both as a creator and as a human being.
-
+<p align="justify">
 As I build user interfaces, I'm also building myself.
 Through design, development, and contemplation, I embrace the path of becoming—
 a personal adventure in mastering not only my craft, but also my mind.
+
+
+<div align="center">
+
+## A Journey of Growth
+
+![Musashi](img/tenor.gif)
+
+Through design and discipline, I walk the path of mastery—both in code and in life.
+
+</div>
 
 ---
 
 ## Tech Stack
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 4px;">
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
